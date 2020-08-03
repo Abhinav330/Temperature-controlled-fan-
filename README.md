@@ -18,8 +18,6 @@ This system have a switch for changing the mode of operation and there are 2 Led
 
 Files discription:
 
-code.ino : Arduino code for our system.
-
-circuit_dig : circuit digram for this system 
-
+Code.ino : Arduino code for our system.
+Circuit_dig : circuit digram for this system 
 Explanation video :  link for youtube video explaning this system 
